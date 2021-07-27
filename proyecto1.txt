@@ -6,3 +6,5 @@ Saludos
 
 Prueasnasn
 Hoy hablremos de su vida y de su obra maestra
+Esta es una nueva verion de git
+esto no esta add
